@@ -39,4 +39,3 @@ git merge [bookmark]/[branch]
 git push [alias] [branch]
 git pull
 
-
